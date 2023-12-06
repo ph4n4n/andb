@@ -1,0 +1,26 @@
+{
+  "name": "andb-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "alog-xyz": "^1.0.11",
+    "mysql2": "^3.4.2"
+  },
+  "type": "module",
+  "author": "ph4n4n",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph4n4n/andb.git"
+  },
+  "keywords": [
+    "andb",
+    "db migrator",
+    "db compare"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ph4n4n/andb/issues"
+  },
+  "homepage": "https://github.com/ph4n4n/andb#readme"
+}

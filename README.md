@@ -9,7 +9,8 @@
 
 ## Description
 
-`andb-migrator` is a Node.js module designed for database migration and comparison. It provides functionality to manage database schema changes and compare databases efficiently.
+`andb-migrator` is a Node.js module designed for database migration and comparison with hight quality report consist of JSON and HTML.
+ It provides functionality to manage database schema changes and compare databases efficiently.
 
 ## Installation
 

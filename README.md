@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 [![GitHub Issues](https://img.shields.io/github/issues/ph4n4n/andb)](https://github.com/ph4n4n/andb/issues)
 
-```
-
 ## Description
 
 `andb-migrator` is a Node.js module designed for database migration and comparison. It provides functionality to manage database schema changes and compare databases efficiently.
